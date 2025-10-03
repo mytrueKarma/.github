@@ -1,4 +1,4 @@
-<h1 align="center">Hi, ich bin Michael! 👋</h1>
+<h1 align="center">Hi, ich bin Michael Medvidov! 👋</h1>
 
 <h3 align="center">Gründer von mytrueKarma</h3>
 
