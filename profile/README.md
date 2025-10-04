@@ -1,6 +1,4 @@
-<h1 align="center">Hi, ich bin Michael Medvidov! 👋</h1>
-
-<h3 align="center">Gründer von mytrueKarma</h3>
+<h3 align="center">mytrueKarma</h3>
 
 <p align="center">
   Eine Social Commerce Plattform für nachhaltigen und transparenten Handel.
