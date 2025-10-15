@@ -46,3 +46,5 @@ Wir glauben an nachhaltigen Handel, der nicht nur Profit generiert, sondern auch
 * **WhatsApp:** +4915678443874
 
 ---
+
+<img src="/profile/pics/myk.gif" alt="Gif">
