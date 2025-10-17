@@ -1,3 +1,5 @@
+<img src="/profile/pics/myk.gif" alt="Gif">
+
 <h3 align="center">mytrueKarma</h3>
 
 <p align="center">
@@ -47,4 +49,3 @@ Wir glauben an nachhaltigen Handel, der nicht nur Profit generiert, sondern auch
 
 ---
 
-<img src="/profile/pics/myk.gif" alt="Gif">
